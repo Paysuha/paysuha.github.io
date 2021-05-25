@@ -1,0 +1,59 @@
+/*курсор*/
+
+div,
+body,
+label {
+cursor: url(https://media.discordapp.net/attachments/758681865476898856/842382026296655932/1.png), default !important;
+}
+
+
+
+a,
+before,
+after,
+active,
+popup li,
+submenu,
+entry,
+cover,
+title,
+trigger-arrow,
+trigger,
+option,
+close,
+expand span,
+plus,
+b-tooltipped,
+preview,
+unpreview,
+value,
+slide,
+b-to-top,
+leave,
+invite,
+upload,
+invite span,
+b-spoiler label,
+b-poster,
+off,
+item-ignore,
+item-reply,
+b-comments-notifier,
+click-loader {
+cursor: url(https://media.discordapp.net/attachments/758681865476898856/842382024669265952/2.png), pointer !important;
+}
+
+
+watching,
+rewatching,
+add-trigger,
+remove-trigger,
+edit,
+userbox,
+comments-loader,
+input input,
+input,
+menu-search,
+text {
+  cursor: url(https://media.discordapp.net/attachments/758681865476898856/842382022998622228/3.png), text !important;
+}
